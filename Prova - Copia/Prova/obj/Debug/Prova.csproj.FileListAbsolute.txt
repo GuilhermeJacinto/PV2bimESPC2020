@@ -1,0 +1,61 @@
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Forms.Materia.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Forms.Matricula.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Index.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\rapha\source\repos\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\rapha\source\repos\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Forms.Lista.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Forms.MinhasDisciplinas.resources
+C:\Users\rapha\source\repos\Prova\Prova\obj\Debug\Prova.Forms.Aluno.StatusdeMateria.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\bin\Debug\Prova.exe.config
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\bin\Debug\Prova.exe
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\bin\Debug\Prova.pdb
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.AlterarAluno.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.ExcluirDadosAluno.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.MenuAluno.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.MinhasDisciplinas.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.StatusdeMateria.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.VerAlunos.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Lista.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Materia.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Matricula.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Index.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Forms.Professor.LancamentodeNota.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.exe
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.pdb
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gwdem\OneDrive\Área de Trabalho\Prova - Copia\Prova\obj\Debug\Prova.csproj.CopyComplete
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\bin\Debug\Prova.exe.config
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\bin\Debug\Prova.exe
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\bin\Debug\Prova.pdb
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.AlterarAluno.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.ExcluirDadosAluno.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.MenuAluno.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.MinhasDisciplinas.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.StatusdeMateria.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Aluno.VerAlunos.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Lista.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Materia.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Matricula.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Index.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Forms.Professor.LancamentodeNota.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.csproj.CopyComplete
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.exe
+C:\Users\Guilh\Desktop\Prova - Copia\Prova - Copia\Prova\obj\Debug\Prova.pdb
